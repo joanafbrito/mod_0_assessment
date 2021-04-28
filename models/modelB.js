@@ -6,9 +6,9 @@ var vehicle = {
   color: "red",
   year: 2019,
   price: 35000,
-  new: true,
-  used: false,
-  optionOfColors:['Black', 'White', 'Blue', 'Gray'],
+  isNew: true,
+  isAdditionalPackagesIn: false,
+  convinienceOptions:['Wireless charging', 'Sliding and Reclining rear seat adjustment', 'Heated Front Seat and Steering wheel'],
   exteriorFeatures:['Privacy glass','Satin Aluminum roof rails','Non-metallic paint'],
 
 }
